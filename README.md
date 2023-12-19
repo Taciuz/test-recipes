@@ -1,1 +1,1 @@
-# test-recipes
+Project on lerning basic stuff of HTML
